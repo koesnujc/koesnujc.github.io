@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Yujin Lee
+  site_title: Koesnuj
   favicon_image: favicon.ico
 
 header_settings:
@@ -35,7 +35,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/yujiin.leee'
+  facebook_url: 'https://ko-kr.facebook.com/chayjoon212'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
@@ -49,8 +49,8 @@ social_settings:
   apple_url: ''
   android_url: ''
   tumblr_url: ''
-  dribbble_url: 'https://dribbble.com/yujiinlee'
-  behance_url: 'https://www.behance.net/yujiinlee'
+  dribbble_url: 'https://www.behance.net/junseokchang'
+  behance_url: 'https://www.behance.net/junseokchang'
   deviantart_url: ''
   github_url: ''
   reddit_url: ''
@@ -60,7 +60,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'https://www.linkedin.com/in/yujin-lee-811640131/'
+  linkedin_url: 'https://www.linkedin.com/in/junseok-chang/'
 
 color_settings:
   background_color: '#fff'
